@@ -64,16 +64,34 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SujanDinda&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=sujandinda&theme=cyberpunk" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=sujandinda&theme=cyberpunk" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61583409929076) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujan-dinda-1210112a8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujandinda734632@gmail.com) 
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=sujandinda&theme=cyberpunk" />
+</p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SujanDinda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=sujandinda&theme=cyberpunk" />
+</p>
+
 ---
 [![](https://komarev.com/ghpvc/?username=SujanDinda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
