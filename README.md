@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/hero?username=sujandinda&theme=neon&role=Backend%20or%20systems%20engineer&location=India" alt="Sujan Dinda GitHub Profile Hero" />
+</p>
 
 
 # 💻 Tech Stack:
