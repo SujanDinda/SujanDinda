@@ -52,9 +52,7 @@
   <img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=sujandinda&theme=github-dark&v=competitive-calendar-1" alt="Contribution Calendar" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=sujandinda&theme=github-dark&motion=subtle&v=competitive-snake-1" alt="Contribution Snake Calendar" />
-</p>
+<img width="100%" alt="sujandinda animated contribution jet" src="https://www.gitskins.com/api/section/heatmap?username=sujandinda&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F165813586%3Fu%3D3eb2985fdc5ce994cf6ff52d52db30344b82b79b%26v%3D4&amp;variant=space-shooter&amp;v=space-jet-original-2&amp;mode=dark">
 
 
 <p align="center">
